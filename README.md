@@ -26,10 +26,6 @@
 </a>
 
 
-<a href="https://github.com/elasticdotventures">
-  <img align="center" width="49%" src="./metrics.plugin.notable.indepth.svg" />
-</a>
-
 - 🔭 I’m currently working on ...
   * 🦘 searching for employment down-under
   * http://bit.ly/resume-brianhorakh
