@@ -47,7 +47,7 @@
   
 
 - 😄 Pronouns:
-  * any - he/she/her/him & they/them/it (all good, enby)
+  * any - it's all good!
 
 - ⚡ Fun fact: 
   * i don't share fun facts.
