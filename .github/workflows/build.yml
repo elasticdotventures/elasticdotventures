@@ -153,6 +153,8 @@ jobs:
         with:
           filename: metrics.plugin.notable.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: elasticdotventures
           base: ""
           plugin_notable: yes
 
@@ -168,7 +170,7 @@ jobs:
           user: elasticdotventures
           base: ""
           plugin_notable: yes
-          plugin_notable_from: all
+          plugin_notable_from: organization
         #  plugin_notable_indepth: yes
         #  plugin_notable_repositories: yes
 
