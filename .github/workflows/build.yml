@@ -19,6 +19,8 @@ jobs:
         with:
           filename: metrics.plugin.notable.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: elasticdotventures
           base: ""
           plugin_notable: yes
           plugin_notable_indepth: yes
