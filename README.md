@@ -31,16 +31,28 @@
 </a>
 
 - 🔭 I’m currently working on ...
-  finding a job.
+  * 🦘 searching for employment down-under
+  * http://bit.ly/resume-brianhorakh
 
-- 🌱 I’m currently learning ...
-rust.
+- 🌱 I’m currently learning (or improving) ...
+  * 🦀 rust + wasm &amp; 🐍 python (ai/ml) &amp; 🦄 typescript/deno/vue3 
+  * 🤖 artificial intelligence 😍 llm
+  * ⚡ electronics engineering
+  * ⛅ azure > aws 
 
 - 👯 I’m looking to collaborate on ...
-candi-date
+  * http://github.com/elasticdotventures/candi-date
 
 - 📫 How to reach me: ...
-- 😄 Pronouns: he/they
+  * matrix.org: <a href="https://matrix.to/#/@elasticdotventures:matrix.org">elasticdotventures</a>
+  * twitter: <a href="http://twitter.com/brianhorakh">
+  * linked.in: <a href="https://www.linkedin.com/in/brianhorakh">brianhorakh</a>
+  * discord: <a href="https://discord.com/users/595852442760118294">elasticventures#4645</a>
+  
+
+- 😄 Pronouns:
+  * he/him they/them/it (enby)
+
 - ⚡ Fun fact: 
-* i don't share fun facts.
+  * i don't share fun facts.
 
