@@ -1,4 +1,3 @@
-![Metrics](/github-metrics.svg)
 
 <a href="https://github.com/elasticdotventures">
   <img align="center" width="49%" src="./header.svg" />
@@ -26,11 +25,22 @@
     <img align="center" width="49%" src="./achievements.svg" />
 </a>
 
+
+<a href="https://github.com/elasticdotventures">
+  <img align="center" width="49%" src="./metrics.plugin.notable.indepth.svg" />
+</a>
+
 - 🔭 I’m currently working on ...
+  finding a job.
+
 - 🌱 I’m currently learning ...
+rust.
+
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+candi-date
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/they
+- ⚡ Fun fact: 
+* i don't share fun facts.
+
