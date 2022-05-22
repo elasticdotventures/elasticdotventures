@@ -152,7 +152,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.notable.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_SECRET }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: elasticdotventures
           base: ""
@@ -165,14 +165,14 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.notable.indepth.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_SECRET }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: elasticdotventures
           base: ""
           plugin_notable: yes
           plugin_notable_from: organization
-        #  plugin_notable_indepth: yes
-        #  plugin_notable_repositories: yes
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
 
 
       
