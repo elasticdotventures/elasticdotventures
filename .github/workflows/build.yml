@@ -10,21 +10,6 @@ on:
 
 jobs:
 
-  # https://github.com/lowlighter/metrics/blob/master/source/plugins/notable/README.md
-  notable:
-    name: Indepth analysis
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.notable.indepth.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: elasticdotventures
-          base: ""
-          plugin_notable: yes
-          plugin_notable_indepth: yes
-          plugin_notable_repositories: yes
 
   achievements:
     runs-on: ubuntu-latest
@@ -159,6 +144,33 @@ jobs:
           template: classic
           base: repositories
           config_timezone: ${{ secrets.USER_TIMEZONE }}
+
+  contributions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Contributions
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.notable.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_notable: yes
+
+  # https://github.com/lowlighter/metrics/blob/master/source/plugins/notable/README.md
+  notable:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.notable.indepth.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: elasticdotventures
+          base: ""
+          plugin_notable: yes
+          plugin_notable_from: all
+        #  plugin_notable_indepth: yes
+        #  plugin_notable_repositories: yes
 
 
       
