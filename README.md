@@ -24,12 +24,6 @@
 <a href="https://github.com/elasticdotventures">
     <img align="center" width="49%" src="./achievements.svg" />
 </a>
-<a href="https://github.com/elasticdotventures">
-    <img align="center" width="49%" src="./metrics.plugin.notable.svg" />
-</a>
-<a href="https://github.com/elasticdotventures">
-    <img align="center" width="49%" src="./metrics.plugin.notable.indepth.svg" />
-</a>
 
 
 - 🔭 I’m currently working on ...
