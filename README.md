@@ -41,13 +41,13 @@
 
 - 📫 How to reach me: ...
   * matrix.org: <a href="https://matrix.to/#/@elasticdotventures:matrix.org">elasticdotventures</a>
-  * twitter: <a href="http://twitter.com/brianhorakh">
+  * twitter: <a href="http://twitter.com/brianhorakh">brianhorakh</a>
   * linked.in: <a href="https://www.linkedin.com/in/brianhorakh">brianhorakh</a>
   * discord: <a href="https://discord.com/users/595852442760118294">elasticventures#4645</a>
   
 
 - 😄 Pronouns:
-  * he/him they/them/it (enby)
+  * any - he/she/her/him & they/them/it (all good, enby)
 
 - ⚡ Fun fact: 
   * i don't share fun facts.
