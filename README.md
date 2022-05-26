@@ -44,11 +44,20 @@
   * twitter: <a href="http://twitter.com/brianhorakh">brianhorakh</a>
   * linked.in: <a href="https://www.linkedin.com/in/brianhorakh">brianhorakh</a>
   * discord: <a href="https://discord.com/users/595852442760118294">elasticventures#4645</a>
-  
+  * stackoverflow: <a href="https://stackoverflow.com/users/5128087/brian-horakh">brian-horakh</a>
+
 
 - 😄 Pronouns:
-  * any - it's all good!
+  * he/they/any - it's all good!
 
 - ⚡ Fun fact: 
-  * i don't share fun facts.
+  * linux user & tester since 1991
+  * this is/was not my first github account, but my other one was lost/unrecoverable during travel.
+  * I printed a 3d printer, laser cutter & CNC with my 3d printer
+  * I have over ~5,000 discrete hardware components, motors, sensors in the garage (i like to shop on Taobao)
+  
+
+   
+
+
 
