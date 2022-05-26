@@ -51,7 +51,7 @@
   * he/they/any - it's all good!
 
 - ⚡ Fun fact: 
-  * linux user & tester since 1991
+  * using linux since 1991
   * this is/was not my first github account, but my other one was lost/unrecoverable during travel.
   * I printed a 3d printer, laser cutter & CNC with my 3d printer
   * I have over ~5,000 discrete hardware components, motors, sensors in the garage (i like to shop on Taobao)
