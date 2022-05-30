@@ -21,6 +21,12 @@ With #ETC plan activites, projects, outings, bring/propose ideas, invite guests,
 
 This way *if* we desired to get together /irl/ [in real life] for #ETC on a Sat/Sun our aging synapses & neurons are still sufficiently wet & plastic.  I'm open to any day or time, but Wed/Thurs is probably best synaptically speaking /imho/ [imho: in my humble opinion].  I will also propose some high level ideas & tooling below with short explanations why.  
 
+
+## 🐥 Twitter feeds:
+    * https://twitter.com/innovationdrv
+        * FoF - 
+    * https://twitter.com/ak92501
+
 ## Proposal for RFC's
 
 🍓: Proposal's should be written, ideally in separate files called "REQUEST FOR COMMENTS" denoted with #RFC, this is a convention borrowed from the IETF (Internet Engineering Task Force).  Full discussion is beyond scope of this document - but conceptually an RFC is a propsed idea or a way to suggest changes/revisions and reference an earlier RFC. 
