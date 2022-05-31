@@ -24,3 +24,7 @@ https://github.com/dwyl/repo-badges
 
 https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases
 
+https://spacejelly.dev/posts/how-to-use-github-actions-to-automate-tests-and-slack-notifications/
+
+
+

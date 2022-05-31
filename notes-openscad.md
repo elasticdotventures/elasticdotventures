@@ -1,5 +1,7 @@
 README-openscad
 
+https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Using_an_external_Editor_with_OpenSCAD
+
 https://openscad.org/downloads.html#docker
 
 

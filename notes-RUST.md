@@ -46,12 +46,36 @@ https://www.secondstate.io/articles/lfx-mentorship-wasmedge-summer-2022/
 # discord client.
 https://docs.rs/serenity/0.11.2/serenity/client/struct.Client.html#method.builder
 
+# teams message
+https://www.thorsten-hans.com/send-microsoft-teams-message-oci-artifacts-azure-container-registry/
+
 # cli structopt
 https://www.thorsten-hans.com/how-to-build-clis-in-rust-with-structopt/
 
 # https apis with reqwest
 https://www.thorsten-hans.com/calling-http-apis-in-rust-with-reqwest/
 
+# environment vars
+https://www.thorsten-hans.com/working-with-environment-variables-in-rust/
+
+# tokio: 
+https://docs.rs/tokio-console/0.1.0/tokio_console/
+
+
+# study
+https://doc.rust-lang.org/book/ch18-01-all-the-places-for-patterns.html
+https://doc.rust-lang.org/nomicon/intro.html#the-dark-arts-of-unsafe-rust
+?? https://kerkour.com/black-hat-rust
+https://itnext.io/container-runtime-in-rust-part-0-7af709415cda
+https://www.redhat.com/sysadmin/podman-features-2
+
+
+# cloudflare
+https://developers.cloudflare.com/workers/tutorials/hello-world-rust/
+
+
+
+github ci/cd
 
 ---
 
@@ -60,3 +84,6 @@ https://github.com/Testy/TestyTs
 
 Python
 https://linuxhandbook.com/dockerize-python-apps/
+
+# https://github.com/watchexec/cargo-watch
+
