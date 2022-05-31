@@ -3,6 +3,9 @@
 @ Warren:  In terms of storing power, re: "solar table".  You need weight, and I was thinking structural battery because of fungible.  
 
 
+https://docs.helium.com/use-the-network/devices/development/heltec/wifi-lora-32-v2/arduino/
+
+
 
 
 Let's abandon for a moment the electrochemical "battery" idea.
@@ -86,5 +89,9 @@ Another application could be sanitation into solar compositing toilets that peri
 
 Winding a massive spring, adding a clock, a photoresistor and some lights "old school cool" -- extra power, if these generate too much - how about a small scale 'moisture farm' that creates fresh drinking water?    I just see these used solar panel tables showing up in parks and 3rd world countries all over the world.
 
+
+
+https://www.scientificamerican.com/article/portable-oasis-extracts-water-from-dry-desert-air/
+https://www.darpa.mil/news-events/2020-12-18
 
 
