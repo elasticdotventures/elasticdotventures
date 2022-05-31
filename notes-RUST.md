@@ -27,3 +27,36 @@ https://github.com/krustlet/krustlet
 # OpenScad
 https://github.com/elasticdotventures/Rust-Scad
 
+
+# argc
+https://github.com/sigoden/argc/blob/main/examples/demo.sh
+
+
+# rust github action
+https://github.com/marketplace/actions/rust-cargo-install
+
+uuid
+https://github.com/borngraced/meiid-rust
+
+# wasm
+https://www.secondstate.io/articles/rustwasmc/
+https://github.com/WasmEdge/WasmEdge
+https://www.secondstate.io/articles/lfx-mentorship-wasmedge-summer-2022/
+
+# discord client.
+https://docs.rs/serenity/0.11.2/serenity/client/struct.Client.html#method.builder
+
+# cli structopt
+https://www.thorsten-hans.com/how-to-build-clis-in-rust-with-structopt/
+
+# https apis with reqwest
+https://www.thorsten-hans.com/calling-http-apis-in-rust-with-reqwest/
+
+
+---
+
+Typescript
+https://github.com/Testy/TestyTs
+
+Python
+https://linuxhandbook.com/dockerize-python-apps/

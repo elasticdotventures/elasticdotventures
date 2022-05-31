@@ -21,3 +21,6 @@ https://cli.github.com/manual/gh_repo_fork
 
 https://github.com/dwyl/repo-badges
 
+
+https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases
+

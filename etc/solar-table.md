@@ -3,6 +3,10 @@
 @ Warren:  In terms of storing power, re: "solar table".  You need weight, and I was thinking structural battery because of fungible.  
 
 
+# Helium notes
+* https://github.com/helium
+* https://www.helium.com/mine
+* https://github.com/helium/HIP/blob/main/0019-third-party-manufacturers.md
 https://docs.helium.com/use-the-network/devices/development/heltec/wifi-lora-32-v2/arduino/
 
 

@@ -22,6 +22,8 @@ With #ETC plan activites, projects, outings, bring/propose ideas, invite guests,
 This way *if* we desired to get together /irl/ [in real life] for #ETC on a Sat/Sun our aging synapses & neurons are still sufficiently wet & plastic.  I'm open to any day or time, but Wed/Thurs is probably best synaptically speaking /imho/ [imho: in my humble opinion].  I will also propose some high level ideas & tooling below with short explanations why.  
 
 
+
+
 ## 🐥 Twitter feeds:
     * https://twitter.com/innovationdrv
         * FoF - 
