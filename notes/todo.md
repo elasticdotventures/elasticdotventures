@@ -10,3 +10,4 @@ https://www.keycloak.org/server/configuration
 
 https://fronterablog.com/thinking-in-bets/
 https://ecommons.cornell.edu/handle/1813/74949
+https://ncase.me/remember/
