@@ -8,3 +8,5 @@ https://github.com/m4tt72/terminal
 https://www.keycloak.org/server/configuration
 
 
+https://fronterablog.com/thinking-in-bets/
+https://ecommons.cornell.edu/handle/1813/74949
