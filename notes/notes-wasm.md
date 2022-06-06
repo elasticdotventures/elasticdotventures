@@ -16,4 +16,4 @@ https://medium.com/deno-the-complete-reference/running-deno-in-docker-35756ffff6
 
 https://deno.land/
 
-https://www.secondstate.io/articles/deno-webassembly-rust-wasi/
+https://www.secondstate.io/articles/deno-webassembly-rust-wasi/https://aralroca.com/blog/first-steps-webassembly-rust
