@@ -54,3 +54,5 @@ https://github.com/lento234/awesome-fluid-dynamics
     - navier stokes
         https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations
 
+https://arxiv.org/abs/1810.06723
+https://arxiv.org/pdf/1905.11075.pdf
