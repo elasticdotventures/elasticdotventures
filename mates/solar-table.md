@@ -99,3 +99,7 @@ https://www.scientificamerican.com/article/portable-oasis-extracts-water-from-dr
 https://www.darpa.mil/news-events/2020-12-18
 
 
+
+
+https://www.aemo.com.au/newsroom/news-updates/orchestrating-the-pace-of-change
+
