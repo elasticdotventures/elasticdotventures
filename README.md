@@ -55,6 +55,10 @@
   * this is/was not my first github account, but my other one was lost/unrecoverable during travel.
   * I printed a 3d printer, laser cutter & CNC with my 3d printer
   * I have over ~5,000 discrete hardware components, motors, sensors in the garage (i like to shop on Taobao)
+
+- 🚀 silly tricks
+  * speed up youtube (beyond 2x)
+   document.getElementsByTagName("video")[0].playbackRate = 2.5
   
 
    
