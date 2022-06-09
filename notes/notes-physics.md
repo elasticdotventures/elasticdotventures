@@ -56,3 +56,19 @@ https://github.com/lento234/awesome-fluid-dynamics
 
 https://arxiv.org/abs/1810.06723
 https://arxiv.org/pdf/1905.11075.pdf
+https://github.com/bulletphysics/bullet3/discussions
+https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#heading=h.2ye70wns7io3
+https://colab.research.google.com/drive/15JSROMJbeiqxcUwifPR2NYeeFBKmyIlX#scrollTo=C4_iJOkEsMwv
+https://stonefish.readthedocs.io/en/latest/scenario.html
+https://github.com/patrykcieslak/stonefish
+https://pybullet.org/wordpress/
+https://awesomeopensource.com/project/patrykcieslak/stonefish
+https://mikeash.com/pyblog/fluid-simulation-for-dummies.html
+https://d2f99xq7vri1nk.cloudfront.net/legacy_app_files/pdf/ns.pdf
+https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations
+https://developer.nvidia.com/sites/all/modules/custom/gpugems/books/GPUGems/gpugems_ch38.html
+https://www.youtube.com/watch?v=766obijdpuU\
+https://www.youtube.com/watch?v=766obijdpuU
+http://www.philipzucker.com/annihilating-my-friend-will-with-a-python-fluid-simulation-like-the-cur-he-is/
+https://awesomeopensource.com/project/GregTJ/stable-fluids
+https://github.com/lento234/awesome-fluid-dynamics
