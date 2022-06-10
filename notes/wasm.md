@@ -18,3 +18,5 @@ https://deno.land/
 
 https://www.secondstate.io/articles/deno-webassembly-rust-wasi/https://aralroca.com/blog/first-steps-webassembly-rust
 * https://rustwasm.github.io/book/reference/add-wasm-support-to-crate.html
+https://rustwasm.github.io/wasm-bindgen/reference/js-promises-and-rust-futures.html
+
