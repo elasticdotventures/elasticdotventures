@@ -1,5 +1,10 @@
 
 
+Server Racks (x2) - Rack Technologies - large, 45RU, freestanding. Melb. city
+https://www.ebay.com.au/itm/275343414991?hash=item401bbf16cf:g:G5kAAOSw629ioXhc
+
+
+
 Fungible.Farm AU
 
 Ethereum Network Validator & Filecoin Storage
@@ -58,3 +63,6 @@ https://baxtel.com/data-center/apdc-melbourne-m
 https://baxtel.com/data-center/cyxtera-melbourne-3pmelb1
 https://baxtel.com/data-center/nextdc-melbourne-m1
 
+---
+
+DELL H730 is SAS raid
