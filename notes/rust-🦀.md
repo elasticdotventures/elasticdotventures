@@ -1,3 +1,9 @@
+
+crust of rust notes
+
+#![warn(missing_debug_implementations, rust_2018_idioms, missing_docs)]
+
+
 https://github.com/dmilford/rust-3d-demo
 
 // https://github.com/espressif/rust-esp32-example
