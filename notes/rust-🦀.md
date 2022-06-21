@@ -87,3 +87,13 @@ https://linuxhandbook.com/dockerize-python-apps/
 
 # https://github.com/watchexec/cargo-watch
 
+
+rustwash.github.io/wasm-pack
+
+## rust lookup
+tinysearch: client side document search based on bloom filters (for static site generators)
+
+yew - full react like framework for building entire web-apps in rust
+
+sketchup - full featured 3d modeling programming running in your browser.
+

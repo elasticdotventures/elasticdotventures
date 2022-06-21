@@ -3,6 +3,7 @@ turbofish (plural turbofishes) (programming) A syntactic element in Rust, ::<> ,
 
 
 
+
 https://forge.rust-lang.org/infra/other-installation-methods.html#which
 
 
@@ -35,9 +36,10 @@ https://docs.rs/spider/1.8.1/spider/#
 
 https://docs.rs/tokio-console/0.1.0/tokio_console/
 
-
+The NFT Standard for Solana
 https://www.metaplex.com/
 
+Callysto—Stream Processing in Rust
 https://vertexclique.github.io/callysto/
 
 https://github.com/NeuralPushkin/Dalle2-Decoder
@@ -60,3 +62,5 @@ refutable   let & for
 both irrefutable     if let & while
     * but warns on irrefutable
     
+
+
