@@ -72,11 +72,8 @@ https://cplonline.com.au/mikrotik-rb2011uias-rm-atheros-74k-128mb-ram-1xsfp-port
 https://cplonline.com.au/networking/switches/tp-link-tl-sg1024de-24-port-gigabit-easy-smart-switch-tl-sg1024de.html
 
 
-
-Ubiquiti U6-Pro UniFi AP WiFi6 Indoor 5.3Gbps with 300+ client capacity
-AU $269.00
-https://www.ebay.com.au/itm/255427297730?epid=4053043115&hash=item3b78a741c2:g:oPAAAOSwsCliqBG8&amdata=enc%3AAQAHAAAA4Ok4xXW5BsMB2bq2u4%2BJGABVEwuy4IPxFghH8ys5LkYFnorzn%2BVvwmdfBXC5fYNRiuCSQV%2FqhXPuOwv1ytXjOdsvlM6DghXanAAv5x10rNaggPN5itt7Thb%2Bo%2FPEfqx8Tk1YQnUOKCP2JU4jAJSyq%2BHDpJt%2BbWWRoKLuk41d9VHDXoqIWNWO53sSkklhVIlQD7aImNPtCeQEjFCeS30yU8AL7NwlS6HN70WQTkahkXFBSv6k2SAGKtzcHcVdtBWUDLOOxjZwApSszqIS2w5cEowLBS99u0DXp4xks3yWQux%2F%7Ctkp%3ABFBM5Pehj7Bg&frcectupt=true
-
+udm pro
+* https://cplonline.com.au/networking/firewalls/ubiquiti-udm-pro-8tb-unifi-dream-machine-pro-enterprise-security-gateway-network-appliance.html
 
 https://help.mikrotik.com/docs/display/ROS/Getting+started
 https://help.mikrotik.com/docs/
@@ -89,3 +86,60 @@ https://www.ebay.com.au/itm/172403305017?epid=152934081&hash=item282409aa39:g:~L
 LACP - link aggregation
 
 
+----
+https://www.ebay.com.au/itm/255583342189?epid=9034407566&hash=item3b81f44e6d:g:rKIAAOSwUoJiqX4s
+
+
+----
+SIP
+
+-- phone
+* https://www.iinet.net.au/business/bizphone/
+
+* https://www.scorptec.com.au/product/networking/voip
+    - phone $75 2 line
+
+
+https://www.scorptec.com.au/product/networking/voip/91337-sip-t31p?gclid=CjwKCAjwtcCVBhA0EiwAT1fY7_6GrlYRGvnMzxYG5tOhdQRzhBxYzDKIDOHI4ni3xTeWwrqGhAw-8RoCO1cQAvD_BwE
+
+**
+2x HP ProLiant DL585 G2 4x AMD Opteron 8220 2.8Ghz, 128GB MEM, 5x 72GB 10K 2.5" $400
+https://www.ebay.com.au/itm/353645269621?hash=item5256e69275:g:YKUAAOSwMNBhKGCa
+
+
+
+
+CPU
+2x HP ProLiant DL580 G5 4x Xeon E7450 2.4Ghz, 128GB MEM, 3x 72GB 15K SAS Server
+https://www.ebay.com.au/itm/354069125806?epid=1829874370&hash=item52702a1aae:g:75sAAOSwjvhihyYc
+
+w/rails
+https://www.ebay.com.au/itm/293404209365?hash=item445040f0d5:g:UzsAAOSwa~NeDVWb&frcectupt=true
+
+
+
+HP DL380 G7 2 x X5650 @ 2.66GHz 12 CORES 128GB RAM 4 x 146GB HDD P410i
+https://www.ebay.com.au/itm/174212717093?
+
+
+
+**
+Disk CjwKCAjwtcCVBhA0EiwAT1fY77ABnVuq3k6DrSRGV7wSotSb25IiTdJ7MQAikxmy8dwbgwTij8mtzxoCsUIQAvD_BwE
+
+$329
+HP StorageWorks P4500 G2 Storage Array E5520 2.26GHz 8GB 12 x 600GB Hard Drives
+https://www.ebay.com.au/itm/124950643225?hash=item1d17a38219:g:xGUAAOSwuUthZlk4&frcectupt=true
+
+
+$699.99
+https://www.ebay.com.au/itm/175231349009?hash=item28cc9a3111:g:vHAAAOSwOw1iEwJX&frcectupt=true
+
+
+48tb $999
+Dell Compellent SC200 with 12 x 4Tb Sas 6Gbps 3.5" HDD 2 controllers,2 PSU,rails
+Free local pickup from Campbellfield, Vic, Australia.
+https://www.ebay.com.au/itm/125132746004?hash=item1d227e2d14:g:lJ4AAOSwuiViDdp8&frcectupt=true&autorefresh=true
+
+
+$3967
+https://www.ebay.com.au/itm/234283810778?epid=793607914&hash=item368c673fda:g:6VEAAOSwwbNhjvX7&amdata=enc%3AAQAHAAAA0BS%2Bv60pU%2BjNAxnC2%2BQmKB7qMSdVjlLNccq%2BqVwZgzRlRmR9DFQXSK4rUx58NnczTYydOsnuBwOP9tbqzGq5UWgjOL6UN4KNq6%2Bn2vYwFOtdO%2B06hGtvuWm1KMh95GRtGTmtDrq6Kv%2FegXAZ26z9MXFHQwQgcKnfpT05%2BruLjePzTnVXtJ7i%2BcMLjXyTvpPML83HhJRIBTGrLGLZALa3ntdygdbOVIwCRjGf1CeIrT%2F9ubDDsIOKbRwxStX1S9uRz%2F1qDnRPyFq5xCU5pSJktPo%3D%7Ctkp%3ABFBMsKCOubBg

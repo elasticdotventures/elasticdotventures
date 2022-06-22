@@ -127,3 +127,10 @@ microservices in RUST using actix
 
 microservices with kafka & actix
 https://medium.com/digitalfrontiers/microservices-in-rust-with-kafka-2b671295b24e
+
+probe-run
+run embedded programs just like native ones
+https://ferrous-systems.com/blog/probe-run/
+run rust on embedded in vscode in one click
+https://ferrous-systems.com/blog/run-rust-on-your-embedded-device-from-vscode/
+
