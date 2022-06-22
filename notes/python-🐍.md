@@ -121,3 +121,11 @@ docker build -t gpt-neox -f Dockerfile .
 nvidia-docker run --rm -it -e NVIDIA_VISIBLE_DEVICES=0,1,2,3 --shm-size=1g --ulimit memlock=-1 --mount type=bind,src=$PWD,dst=/gpt-neox gpt-neox
 
 
+
+# rust
+matruin build and publish cretes with pyo3 rust-cpython and cffi bindings as well as rust binaries as python packages
+zero config. replacement for setuptools-rust and milksnake
+https://github.com/PyO3/maturin
+
+writing and publishing a python module in rust
+https://blog.yossarian.net/2020/08/02/Writing-and-publishing-a-python-module-in-rust
