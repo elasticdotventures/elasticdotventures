@@ -1,4 +1,10 @@
 
+
+#![forbid(unsafe_code)]
+
+## fuzzing rust
+https://blog.firosolutions.com/2020/07/superhero-rust-fuzzing/
+
 crust of rust notes
 
 #![warn(missing_debug_implementations, rust_2018_idioms, missing_docs)]
@@ -102,4 +108,13 @@ tinysearch: client side document search based on bloom filters (for static site 
 yew - full react like framework for building entire web-apps in rust
 
 sketchup - full featured 3d modeling programming running in your browser.
+
+Function overloading in Rust
+https://medium.com/swlh/function-overloading-in-rust-d591aff64a03
+
+how to implement a queue in rust
+https://dev.to/virtualkirill/how-to-write-a-queue-in-rust-12m9
+
+writing a windows kernel driver in rust
+https://not-matthias.github.io/posts/kernel-driver-with-rust/
 
