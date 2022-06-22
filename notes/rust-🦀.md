@@ -134,3 +134,7 @@ https://ferrous-systems.com/blog/probe-run/
 run rust on embedded in vscode in one click
 https://ferrous-systems.com/blog/run-rust-on-your-embedded-device-from-vscode/
 
+
+ebbflow client, packaging a linux package in rust
+https://www.ebbflow.io/blog/vending-linux-2
+
