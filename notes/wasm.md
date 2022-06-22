@@ -46,3 +46,10 @@ AArch64 (Cortex-A57 and Cortex-A53 are tested)
 RISCV64, RISCV32 (RISC-V LP64 and RISC-V LP64D are tested)
 XTENSA, MIPS, ARC
 
+
+https://github.com/vshymanskyy/awesome-wasm-tools
+
+
+https://github.com/rustwasm/book
+
+https://rustwasm.github.io/docs/book/
