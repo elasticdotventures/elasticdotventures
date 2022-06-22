@@ -53,3 +53,16 @@ https://github.com/vshymanskyy/awesome-wasm-tools
 https://github.com/rustwasm/book
 
 https://rustwasm.github.io/docs/book/
+
+wasmtime install
+curl https://wasmtime.dev/install.sh -sSf | bash
+
+
+trunk
+Trunk is a WASM web application bundler for Rust. Trunk uses a simple, optional-config pattern for building & bundling WASM, JS snippets & other assets (images, css, scss) via a source HTML file.
+https://github.com/thedodd/trunk
+
+
+Kevin Hoffman -- Building a containerless future with webassembly
+https://www.youtube.com/watch?v=vqBtoPJoQOE\
+
