@@ -12,3 +12,5 @@ Microsoft Deep Learning, hosted by Google
 
 https://colab.research.google.com/drive/1NEm6AsybIiC5TwTU_4DqDkQO0nFRB-uA?usp=sharing
 
+https://openai.com/blog/techniques-for-training-large-neural-networks/
+
