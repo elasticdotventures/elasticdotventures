@@ -118,3 +118,12 @@ https://dev.to/virtualkirill/how-to-write-a-queue-in-rust-12m9
 writing a windows kernel driver in rust
 https://not-matthias.github.io/posts/kernel-driver-with-rust/
 
+
+https://github.com/actix/actix-web
+Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust
+https://medium.com/digitalfrontiers/microservices-in-rust-with-actix-a61bb62fee80
+microservices in RUST using actix 
+
+
+microservices with kafka & actix
+https://medium.com/digitalfrontiers/microservices-in-rust-with-kafka-2b671295b24e
