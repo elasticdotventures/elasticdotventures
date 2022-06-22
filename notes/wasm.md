@@ -66,3 +66,10 @@ https://github.com/thedodd/trunk
 Kevin Hoffman -- Building a containerless future with webassembly
 https://www.youtube.com/watch?v=vqBtoPJoQOE\
 
+https://github.com/appcypher/awesome-wasm-runtimes
+
+wasmtime docs
+https://docs.wasmtime.dev/examples-profiling.html
+
+https://rustwasm.github.io/docs/book/
+https://rustwasm.github.io/docs/wasm-bindgen/

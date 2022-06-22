@@ -139,3 +139,68 @@ ebbflow client, packaging a linux package in rust
 https://www.ebbflow.io/blog/vending-linux-2
 
 https://github.com/rustwasm/wasm_game_of_life
+
+Async Unicorns love Rust
+https://blog.kdubovikov.ml/articles/rust/async-unicorns-love-rust
+
+
+invariants, concrete types
+https://fasterthanli.me/articles/frustrated-its-not-you-its-rust
+
+
+embedded rust
+https://tweedegolf.nl/en/blog/39/why-rust-is-a-great-fit-for-embedded-software
+
+macros for a more productive rust
+https://www.youtube.com/watch?v=dZiWkbnaQe8
+
+* internal rules
+* TT Munchers
+* proc macros
+* attribute macros (i.e. #[get("/hello/<name>/<age>")] 
+* derive macros 
+
+# arduino code in rust
+https://dev.to/creativcoder/how-to-run-rust-on-arduino-uno-40c0
+
+# writing actix-web 100dayOfRust
+https://dev.to/0xbf/day11-write-web-app-with-actix-web-100dayofrust-1lkn
+
+
+# 2d/3d physics engine
+https://rapier.rs/
+
+https://nalgebra.org/
+linear algebra library
+\
+https://nphysics.org/
+2d 3d physics engine
+
+
+# amethyst game engine
+https://amethyst.rs/
+
+# wasm-bindget
+*bind-gen
+https://github.com/rustwasm/wasm-bindgen
+
+https://rustwasm.github.io/docs/wasm-bindgen/
+
+
+# advanced data types in rust
+https://blog.graystorm.com/2020/07/20/a-few-advanced-variable-types-in-rust/
+Box<T> for heap storage
+Cell<T> for .get .set interior mutability
+RefCell<T> adds borrow checking to Cell
+Rc<T> run time reference counting
+Arc<T> atomic reference count, thread-safe Rc
+Mutex<T> mutual exclusion lock across threads
+RwLock<T> similar to RefCell, thread safe, borww() is read, borrow_mut is write()
+
+# Tokio tutorial
+https://tokio.rs/tokio/tutorial
+
+# Data oriented design in rust
+http://jamesmcm.github.io/blog/2020/07/25/intro-dod/#en
+* very advanced!
+
