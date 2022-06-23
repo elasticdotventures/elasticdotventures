@@ -109,3 +109,9 @@ path = "src/main.rs"
 Second, we need (at least) two dependencies: wasm-bindgen and web-sys. The first one does not have any particularities, but the second one, web-sys, does. It is used to access JavaScript APIs.
 👍 really good article.
 
+
+## AssemblyLift
+- https://dev.to/dotxlem/assemblylift-v0-2-preview-rpc-based-io-modules-2d38
+- https://github.com/akkoro/assemblylift
+- #assemblylift:matrix.org.
+- https://c4model.com/

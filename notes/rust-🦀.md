@@ -1,6 +1,25 @@
 
 
+# remedial
+* https://tourofrust.com/TOC_en.html
+	static methods: below to a type use ::
+	instance methods below to an instance use .
+
+
+### Guide to operators, structs, impl
+	- https://towardsdatascience.com/a-comprehensive-tutorial-to-rust-operators-for-beginners-11554b2c64d4
+	* structs contain named fields, methods in impl block
+
+
 #![forbid(unsafe_code)]
+
+## throw away code	👍
+	- https://vorner.github.io/2020/09/20/throw-away-code.html
+	* tricks for prototyping
+		- avoid unwrap, use anyhow:Error
+		- cargo watch
+		* https://docs.rs/itertools/latest/itertools/
+		* https://docs.rs/env_logger/latest/env_logger/
 
 ## fuzzing rust
 https://blog.firosolutions.com/2020/07/superhero-rust-fuzzing/
@@ -46,6 +65,8 @@ https://github.com/sigoden/argc/blob/main/examples/demo.sh
 
 # rust github action
 https://github.com/marketplace/actions/rust-cargo-install
+https://shift.click/blog/github-actions-rust/
+
 
 uuid
 https://github.com/borngraced/meiid-rust
@@ -96,6 +117,14 @@ https://github.com/Testy/TestyTs
 
 Python
 https://linuxhandbook.com/dockerize-python-apps/
+* Rust for a pythonista
+	- https://dygalo.dev/blog/rust-for-a-pythonista-1/
+	- https://dygalo.dev/blog/rust-for-a-pythonista-3/
+		- build actions:
+		* cargo clippy. To ensure our code follows common Rust idioms & lints;
+		* cargo fmt. Provides consistent code formatting;
+		* tox. Runs all Python tests.
+
 
 # https://github.com/watchexec/cargo-watch
 
@@ -118,6 +147,9 @@ https://dev.to/virtualkirill/how-to-write-a-queue-in-rust-12m9
 writing a windows kernel driver in rust
 https://not-matthias.github.io/posts/kernel-driver-with-rust/
 
+
+# Actix 3.0
+* https://paper.dropbox.com/published/Announcing-Actix-Web-v3.0-QOXXb1lXgTubzXHzUq9ONY5
 
 https://github.com/actix/actix-web
 Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust
@@ -151,14 +183,16 @@ https://fasterthanli.me/articles/frustrated-its-not-you-its-rust
 embedded rust
 https://tweedegolf.nl/en/blog/39/why-rust-is-a-great-fit-for-embedded-software
 
-macros for a more productive rust
-https://www.youtube.com/watch?v=dZiWkbnaQe8
+## macros for a more productive rust
+	- https://www.youtube.com/watch?v=dZiWkbnaQe8
+	* internal rules
+	* TT Munchers
+	* proc macros
+	* attribute macros (i.e. #[get("/hello/<name>/<age>")] 
+	* derive macros 
+	* BinRead (binary file read)
+	* use cpp_inherit::*;	 // wtf was that?
 
-* internal rules
-* TT Munchers
-* proc macros
-* attribute macros (i.e. #[get("/hello/<name>/<age>")] 
-* derive macros 
 
 # arduino code in rust
 https://dev.to/creativcoder/how-to-run-rust-on-arduino-uno-40c0
@@ -197,8 +231,11 @@ Arc<T> atomic reference count, thread-safe Rc
 Mutex<T> mutual exclusion lock across threads
 RwLock<T> similar to RefCell, thread safe, borww() is read, borrow_mut is write()
 
-# Tokio tutorial
-https://tokio.rs/tokio/tutorial
+## Tokio tutorial
+* https://tokio.rs/tokio/tutorial
+* TWO EASY WAYS TO TEST ASYNC FUNCTIONS IN RUST
+	https://blog.x5ff.xyz/blog/async-tests-tokio-rust/
+
 
 # Data oriented design in rust
 http://jamesmcm.github.io/blog/2020/07/25/intro-dod/#en
@@ -217,8 +254,11 @@ watcher -> signal -> behavior -> behaviorSignal -> notify -> notifyEvent
 	- targets wasi binaries
 
 
+* sheshbabu
 
 
+* gentle intro to assembly with rust
+	- https://lfn3.net/2020/08/03/a-gentle-intro-to-assembly-with-rust/
 
 
 
@@ -304,6 +344,7 @@ watcher -> signal -> behavior -> behaviorSignal -> notify -> notifyEvent
     - https://www.secondstate.io/articles/deno-webassembly-rust-wasi/
 
 
+
 * how to bootstrap a rust api from scratch
     - https://www.lpalmieri.com/posts/2020-08-09-zero-to-production-3-how-to-bootstrap-a-new-rust-web-api-from-scratch/
     - 🤪: presumes actix (dated)
@@ -363,6 +404,13 @@ watcher -> signal -> behavior -> behaviorSignal -> notify -> notifyEvent
 std::result
 https://doc.rust-lang.org/std/result/index.html
 
+## Clear explanation of RUsts module systems
+	👍 seshbabu! 🥰
+	- https://www.sheshbabu.com/posts/rust-module-system/
+	* declare a file as a submodule using `mod` keyword in `main.rs`
+
+
+
 ## Beginner's guide to Error Handling in Rust
     - https://www.sheshbabu.com/posts/rust-error-handling/
     -  In Rust, you return something called a Result.
@@ -394,6 +442,9 @@ enum Result<T, E> {
 
 # use rust compiler as integration testing framework
 -  https://blog.logrocket.com/
+	- Ian cooper 
+		* 🚀: TDD, Where did it all go wrong?
+			- https://www.youtube.com/watch?v=EZ05e7EMOLM
 using-the-rust-compiler-as-your-integration-testing-framework/
 	- write code with generic <T> types
 * Result
@@ -405,9 +456,75 @@ pub enum Result<T, E> {
     Ok(T),
     Err(E),
 }
-
 ```
 	- Types and functions CAN be annotated with #[must_use] in Rust
 		* The compiler makes sure you don’t forget about variables and important return values.
+		* Newtypes, newtypes, newtypes
+```rust
+struct UserId(Uuid)
+struct OrderId(Uuid)
+
+```
+	- Custom Types
+```rust
+struct Percent(u8);
+
+impl Percent {
+    fn new(value: u8) -> anyhow::Result<Self> {
+        if value > 100 {
+            anyhow::bail!("number is too big!")
+        }
+
+        if value == 0 {
+            anyhow::bail!("number is zero!")
+        }
+
+        Self(value)
+    }
+}
+
+```
+		
 
 
+## my fav rust signature
+	- tokenize
+	- https://www.brandons.me/blog/favorite-rust-function
+
+## async iteration semantics
+// too abstract!
+	- https://blog.yoshuawuyts.com/async-iteration/
+
+
+## data oriented design with rust
+	- https://jamesmcm.github.io/blog/2020/07/25/intro-dod/
+// too abstract!
+Struct of arrays vs. array of structs
+The cost of branching inside a hot loop
+Linked List vs. Vector iteration
+The cost of dynamic dispatch vs. monomorphisation
+
+## collecting data from an api
+	- https://davidmaceachern.com/posts/collecting-data-from-an-api
+
+
+## no namespaces in rust is a feature
+	- https://samsieber.tech/posts/2020/09/registry-structure-influence/
+
+## learning embedded rust with Knurling-rs
+	- https://ferrous-systems.com/blog/knurling-sessions-introduction/
+	- https://probe.rs/
+	- https://github.com/knurling-rs
+
+## serde query
+	- https://github.com/pandaman64/serde-query/
+	- query language for serde, jq syntax
+
+## awesome rust errors
+	- https://www.youtube.com/watch?v=rAF8mLI0naQ
+	- https://rustbeginners.github.io/awesome-rust-mentors/
+	* Recoverable vs. Non Recoverable
+
+
+---
+https://this-week-in-rust.org/blog/archives/index.html
