@@ -73,3 +73,39 @@ https://docs.wasmtime.dev/examples-profiling.html
 
 https://rustwasm.github.io/docs/book/
 https://rustwasm.github.io/docs/wasm-bindgen/
+
+https://arxiv.org/pdf/2111.01947.pdf
+
+* https://arxiv.org/pdf/2111.01947.pdf
+    - NDP near data processing, PIM processing in memory
+    - CSA: computational storage array
+    - eBPF: register based ebpf bytecode
+
+
+
+* wascc (pronounced 'wask')
+    - 
+    - a lot of the links are broken now!
+    - wascc.dev
+    - https://slides.com/autodidaddict/intro-to-wascc/fullscreen
+
+- package manager
+    - gantry
+        * Gantry (waSCC Module Registry) Client CLI
+        * https://crates.io/crates/gantry/0.0.9/dependencies
+    - no module / package manager?
+    - wasmoci ??
+
+
+# RuST WASM
+- evaluate of webassembly and ebpf as offloading mechanisms
+* https://blog.nodraak.fr/2020/07/rust-wasm-2-hello-world/[A
+- wasm-pack expects project to be a library, not executable
+- can use
+[lib]
+crate-type = ["cdylib"]
+path = "src/main.rs"
+
+Second, we need (at least) two dependencies: wasm-bindgen and web-sys. The first one does not have any particularities, but the second one, web-sys, does. It is used to access JavaScript APIs.
+👍 really good article.
+
