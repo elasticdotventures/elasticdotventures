@@ -1,4 +1,11 @@
 
+# awesome rust
+- https://github.com/rust-unofficial/awesome-rust#resources
+
+# rust mentors
+- https://rustbeginners.github.io/awesome-rust-mentors/
+	- https://exercism.org/
+
 
 # remedial
 * https://tourofrust.com/TOC_en.html
@@ -9,6 +16,7 @@
 ### Guide to operators, structs, impl
 	- https://towardsdatascience.com/a-comprehensive-tutorial-to-rust-operators-for-beginners-11554b2c64d4
 	* structs contain named fields, methods in impl block
+	* https://ferrous-systems.com/blog/omg-wtf-rs-resources-to-help-you-get-started-with-rust/
 
 
 #![forbid(unsafe_code)]
@@ -20,6 +28,8 @@
 		- cargo watch
 		* https://docs.rs/itertools/latest/itertools/
 		* https://docs.rs/env_logger/latest/env_logger/
+
+# dynamic iterators
 
 ## fuzzing rust
 https://blog.firosolutions.com/2020/07/superhero-rust-fuzzing/
@@ -180,6 +190,14 @@ invariants, concrete types
 https://fasterthanli.me/articles/frustrated-its-not-you-its-rust
 
 
+# Pretty state machine patterns in RUST
+	- https://hoverbear.org/blog/rust-state-machine-pattern/
+	* a State Machine is any 'machine' which has a set of 'states' and 'transitions' defined between them.
+
+# build a discord bot with serenity
+- https://developers.facebook.com/blog/post/2020/09/30/build-discord-bot-with-rust-and-serenity/
+
+
 embedded rust
 https://tweedegolf.nl/en/blog/39/why-rust-is-a-great-fit-for-embedded-software
 
@@ -192,6 +210,38 @@ https://tweedegolf.nl/en/blog/39/why-rust-is-a-great-fit-for-embedded-software
 	* derive macros 
 	* BinRead (binary file read)
 	* use cpp_inherit::*;	 // wtf was that?
+
+
+# zero to production: telemetry 👍
+	- https://www.lpalmieri.com/posts/2020-09-27-zero-to-production-4-are-we-observable-yet/
+	- log crate
+		* log provides five macros: trace, debug, info, warn and error.
+		* actix-web Logger middleware
+		- https://en.wikipedia.org/wiki/Facade_pattern
+	- RUST_LOG=debug		
+	- tracing crate
+```rust
+[dependencies]
+tracing = { version = "0.1", features = ["log"] }
+
+```
+	- use tracing `span`
+		https://docs.rs/tracing/0.1.19/tracing/span/index.html
+	- no wait, use tracing::Instrument
+		https://docs.rs/tracing/latest/tracing/trait.Instrument.html
+	- no no wait, use tracing::Subscriber
+		https://docs.rs/tracing/0.1.19/tracing/trait.Subscriber.html
+
+
+
+
+# eBPF & RUST
+	- ust library for building and running BPF/eBPF modules
+	https://github.com/foniod/redbpf
+	- Aya, pure rust
+	https://confused.ai/posts/announcing-aya
+	https://aya-rs.github.io/book/
+	https://docs.cilium.io/en/stable/bpf/
 
 
 # arduino code in rust
@@ -235,6 +285,7 @@ RwLock<T> similar to RefCell, thread safe, borww() is read, borrow_mut is write(
 * https://tokio.rs/tokio/tutorial
 * TWO EASY WAYS TO TEST ASYNC FUNCTIONS IN RUST
 	https://blog.x5ff.xyz/blog/async-tests-tokio-rust/
+* https://www.fpcomplete.com/blog/http-status-codes-async-rust/
 
 
 # Data oriented design in rust
@@ -311,6 +362,7 @@ watcher -> signal -> behavior -> behaviorSignal -> notify -> notifyEvent
             * https://cxx.rs/
 
 
+
 * Inbound & outbound FFI
     - advises reading first 8 chapters of:
         https://doc.rust-lang.org/stable/nomicon/
@@ -340,6 +392,23 @@ watcher -> signal -> behavior -> behaviorSignal -> notify -> notifyEvent
         - https://github.com/dtolnay/anyhow
 
 
+* optimization - making rust go brrr
+	* rayon is not a magic bullet
+	* wrap file io/o in a BufWriter to minimize syscalls
+```rust
+let fd = File::create("example.bin").expect("Failed to create file!");
+let mut writer = BufWriter::new(fd);
+std::io::copy(&mut; buffer, &mut; writer).expect("Failed to copy buffer!");
+writer.flush().expect("Failed to write file!");
+
+```
+	* std:: alternatives can be faster 
+	- parking_log - better mutex & RwLock
+	- crossbeam-channel & flume alt Sender/Receiver
+	- dashmap is a better solution than Arc<RwLock<Hasmap<K,V>
+	- ryu & lexical - convert to & from decimal strings
+	* use processor & compiler optimizations
+
 * Deno Apps with wasm, RUST, Wasi
     - https://www.secondstate.io/articles/deno-webassembly-rust-wasi/
 
@@ -353,6 +422,11 @@ watcher -> signal -> behavior -> behaviorSignal -> notify -> notifyEvent
     - https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter/
     - bloomfilter indicates *may* exist, but definitely does NOT exist
     - used bit_vec crate
+
+
+## traits
+	- Rust - understanding traits 1
+	https://dev.to/brunooliveira/rust-understanding-traits-1-45md
 
 
 * rust goodness case study
@@ -484,8 +558,12 @@ impl Percent {
 }
 
 ```
-		
 
+
+## face detection in node.js, with rust & webassembly
+- https://dev.to/alabulei1/high-performance-and-safe-ai-as-a-service-in-node-js-43lg
+- infer() function	
+	- https://github.com/second-state/AI-as-a-Service/blob/master/nodejs/face_detection_service/src/lib.rs
 
 ## my fav rust signature
 	- tokenize
