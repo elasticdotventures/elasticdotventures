@@ -1,3 +1,5 @@
+written as a response to https://news.ycombinator.com/item?id=31858478
+
 I've been studying RUST 'hardcore' for the past few ~5 months (i.e. reviewing the entire compedium + backlog for the past ~10 years), and I am just now emerging from imposter syndrome.  I mostly understood everything the author was saying, I don't think I could write it - but I know what an AST is. 
 
 I did not like the article, I do not think it highlights the benefits of RUST.  
