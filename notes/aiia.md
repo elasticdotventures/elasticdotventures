@@ -14,3 +14,7 @@ https://colab.research.google.com/drive/1NEm6AsybIiC5TwTU_4DqDkQO0nFRB-uA?usp=sh
 
 https://openai.com/blog/techniques-for-training-large-neural-networks/
 
+
+## CAE: Context AutoEncoder for Self-Supervised Representation Learning
+https://github.com/lxtGH/CAE
+

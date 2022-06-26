@@ -1,11 +1,24 @@
+# youtube
+* https://www.youtube.com/c/JonGjengset
+
 
 # awesome rust
 - https://github.com/rust-unofficial/awesome-rust#resources
+
+# cheatsheet  
+https://cheats.rs/#idiomatic-rust
+
+
+# https://exercism.org/tracks/rust/exercises/lucians-luscious-lasagna
 
 # rust mentors
 - https://rustbeginners.github.io/awesome-rust-mentors/
 	- https://exercism.org/
 
+- https://github.com/mre/idiomatic-rust
+
+# troubleshooting
+https://jondot.medium.com/8-steps-for-troubleshooting-your-rust-build-times-2ffc965fd13e
 
 # remedial
 * https://tourofrust.com/TOC_en.html
@@ -44,6 +57,7 @@ https://github.com/dmilford/rust-3d-demo
 // https://github.com/espressif/rust-esp32-example
 https://github.com/esp-rs/rust
 rustup target add riscv32i-unknown-none-elf
+https://github.com/esp-rs
 
 
 https://rustwasm.github.io/
@@ -64,19 +78,51 @@ https://github.com/probe-rs/probe-rs
 # K8 - krustlet.dev
 https://github.com/krustlet/krustlet
 
+# PyTorch / Machine Learning
+* https://github.com/LaurentMazare/tch-rs
+* https://github.com/rust-ml/linfa
+* https://github.com/smartcorelib/smartcore
+* https://github.com/tensorflow/rust
+
+# discord
+- https://github.com/serenity-rs/serenity
 
 # OpenScad
 https://github.com/elasticdotventures/Rust-Scad
 
+# concurrency & parallelism
+* https://github.com/crossbeam-rs/crossbeam
+* https://github.com/rayon-rs/rayon
+* https://capnproto.org/
 
 # argc
 https://github.com/sigoden/argc/blob/main/examples/demo.sh
 
+# http server
+- https://github.com/poem-web/poem
+
+# http client
+- https://github.com/graphql-rust/graphql-client
+- soup (scraper)
+	- https://gitlab.com/pwoolcoc/soup
+
+# graphql
+- https://async-graphql.github.io/async-graphql/en/index.html
+- https://github.com/graphql-rust/graphql-client
+- https://github.com/async-graphql/async-graphql
+- https://github.com/graphql-rust/juniper
 
 # rust github action
-https://github.com/marketplace/actions/rust-cargo-install
-https://shift.click/blog/github-actions-rust/
+- https://github.com/marketplace/actions/rust-cargo-install
+- https://shift.click/blog/github-actions-rust/
+- 👍 https://github.com/icepuma/rust-action
 
+
+# oauth
+- https://github.com/HeroicKatora/oxide-auth
+
+# topt
+- https://github.com/constantoine/totp-rs
 
 uuid
 https://github.com/borngraced/meiid-rust
@@ -117,13 +163,17 @@ https://www.redhat.com/sysadmin/podman-features-2
 https://developers.cloudflare.com/workers/tutorials/hello-world-rust/
 
 
-
-github ci/cd
-
 ---
 
-Typescript
-https://github.com/Testy/TestyTs
+# Python
+* https://github.com/PyO3/PyO3
+* https://github.com/dgrunwald/rust-cpython
+* https://github.com/getsentry/milksnake
+
+# Typescript
+- https://github.com/neon-bindings/neon
+- https://github.com/infinyon/node-bindgen (not maintained?)
+- https://github.com/Testy/TestyTs
 
 Python
 https://linuxhandbook.com/dockerize-python-apps/
@@ -212,7 +262,12 @@ https://tweedegolf.nl/en/blog/39/why-rust-is-a-great-fit-for-embedded-software
 	* use cpp_inherit::*;	 // wtf was that?
 
 
+# flamegraph
+- https://github.com/llogiq/flame
+- obsolete: https://github.com/mrhooray/torch
+
 # zero to production: telemetry 👍
+
 	- https://www.lpalmieri.com/posts/2020-09-27-zero-to-production-4-are-we-observable-yet/
 	- log crate
 		* log provides five macros: trace, debug, info, warn and error.
@@ -462,6 +517,7 @@ writer.flush().expect("Failed to write file!");
     - use cargo check
 
 * rust for a pythonista
+	-  🤯https://github.com/dgrunwald/rust-cpython
     - https://dygalo.dev/blog/rust-for-a-pythonista-2/
         * todo!() // panics with a not yet implemented
     - html5ever 

@@ -3,6 +3,7 @@
 https://www.thorsten-hans.com/distribute-webassembly-modules-as-oci-artifacts/
 
 
+
 # vue-wasm
 
 https://github.com/BrockReece/vue-wasm
@@ -115,3 +116,9 @@ Second, we need (at least) two dependencies: wasm-bindgen and web-sys. The first
 - https://github.com/akkoro/assemblylift
 - #assemblylift:matrix.org.
 - https://c4model.com/
+
+## waPC implementation for Rust
+waPC is a protocol for communicating in and out of WebAssembly. This repository contains the Rust implementations for waPC hosts, guests, compatible codecs, and implementations for wasmtime and wasm3 engines.
+
+https://github.com/wapc/wapc-rs
+

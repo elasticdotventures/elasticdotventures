@@ -62,5 +62,13 @@ refutable   let & for
 both irrefutable     if let & while
     * but warns on irrefutable
     
+##
 
+* Open Telemetry
+    - https://crates.io/crates/opentelemetry
+
+# code analysis
+    - https://github.com/rust-secure-code/cargo-geiger
+    - `cargo geiger`
+https://doc.rust-lang.org/std/fmt/
 
