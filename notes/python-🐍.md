@@ -129,3 +129,10 @@ https://github.com/PyO3/maturin
 
 writing and publishing a python module in rust
 https://blog.yossarian.net/2020/08/02/Writing-and-publishing-a-python-module-in-rust
+
+# ANU: 
+https://zhd.dev/sufficiently/
+https://github.com/Zac-HD/
+
+https://orcid.org/0000-0002-8646-8362
+https://github.com/HypothesisWorks/hypothesis
