@@ -29,6 +29,8 @@
 - 🔭 I’m currently working on ...
   * 🦘 searching for employment down-under
   * http://bit.ly/resume-brianhorakh
+  * exercism.io (Rust): https://exercism.org/profiles/elasticdotventures
+  
 
 - 🌱 I’m currently learning (or improving) ...
   * 🦀 rust + wasm &amp; 🐍 python (ai/ml) &amp; 🦄 typescript/deno/vue3 
