@@ -32,5 +32,6 @@ podman pull docker.io/grafana/grafana-oss
 docker run -d -p 3000:3000 --name grafana  -v grafana-storage:/var/lib/grafana grafana/grafana-oss
 
 
-
+# added systemctl files in:
+/etc/systemd/system
 
