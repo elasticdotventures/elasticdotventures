@@ -44,3 +44,6 @@ faster. commits can be made in directories using branches?
 ### downloads
 https://github.com/Microsoft/VFSForGit/releases
 
+
+# Git from the bottom up (open source book)
+https://jwiegley.github.io/git-from-the-bottom-up/

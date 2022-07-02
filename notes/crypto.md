@@ -10,7 +10,7 @@ https://www.venkmanholdings.com/
 https://www.energyweb.org/ecosystem-roadmap/
 
 
-# crowloans
+# crowdloans
 https://centrifuge.io/parachain/crowdloan/
 
 

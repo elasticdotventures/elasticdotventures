@@ -18,3 +18,7 @@ https://openai.com/blog/techniques-for-training-large-neural-networks/
 ## CAE: Context AutoEncoder for Self-Supervised Representation Learning
 https://github.com/lxtGH/CAE
 
+
+# yolov6: next gen object detect
+- https://dagshub.com/blog/yolov6/#
+

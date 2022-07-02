@@ -662,3 +662,9 @@ The cost of dynamic dispatch vs. monomorphisation
 
 ---
 https://this-week-in-rust.org/blog/archives/index.html
+
+# Rhaiscript /rhai
+embeddable scripting language for Rust
+https://github.com/rhaiscript/rhai
+* has Discord!
+

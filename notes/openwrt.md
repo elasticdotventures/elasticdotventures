@@ -19,7 +19,7 @@ prometheus-node-exporter-lua-wifi_stations
 
 # prometheus
 * https://prometheus.io/docs/prometheus/latest/installation/
-podman run --name myprometheus -d -p 9090:9090 -v /var/local/prometheus-etc:/etc/prometheus -v /var/local/prometheus-data:/data/db:Z prometheus 
+podman run --name prometheus -d -p 9090:9090 -v /var/local/prometheus-etc:/etc/prometheus -v /var/local/prometheus-data:/data/db:Z prometheus 
 
 # sm3lly: grafana
 https://grafana.com/docs/grafana/latest/setup-grafana/installation/docker/#ubuntu-image
@@ -34,4 +34,5 @@ docker run -d -p 3000:3000 --name grafana  -v grafana-storage:/var/lib/grafana g
 
 # added systemctl files in:
 /etc/systemd/system
+https://podman.io/blogs/2018/09/13/systemd.html
 
