@@ -22,3 +22,10 @@ https://rahulsethuram.medium.com/the-new-solidity-dev-stack-buidler-ethers-waffl
 
 ## ? todo
 https://github.com/d-xo/weird-erc20
+
+
+# ignite 
+    - built in GO, has docker container (not explored)
+    - https://ignite.com/
+    curl https://get.ignite.com/cli! | bash
+

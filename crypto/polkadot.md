@@ -2,12 +2,32 @@
 # dao tools
     - https://deepdao.io/dao_tools
 
+# substrate
+https://docs.substrate.io/reference/how-to-guides/
+
+# cumulus, parachains on substrate
+https://github.com/paritytech/cumulus
+
+
+# moonbeam
+* ethereum + polkadot
+https://twitter.com/MoonbeamNetwork
+
+
+# web3go
+- https://web3go.xyz/#/
+
+
+https://kusama.polkassembly.io/post/1554
+
+
+# xcm
+- https://wiki.polkadot.network/docs/learn-crosschain
+
 
 # rewards
 https://www.venkmanholdings.com/
 
-# AEMO
-https://www.energyweb.org/ecosystem-roadmap/
 
 
 # crowdloans
