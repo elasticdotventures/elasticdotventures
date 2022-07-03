@@ -668,3 +668,20 @@ embeddable scripting language for Rust
 https://github.com/rhaiscript/rhai
 * has Discord!
 
+
+# pretty state machine patterns
+https://hoverbear.org/blog/rust-state-machine-pattern/
+
+# clear expalanation of RUST module system
+https://www.sheshbabu.com/posts/rust-module-system/
+ls
+
+# Rust by Example
+https://doc.rust-lang.org/rust-by-example/generics.html
+
+# Clear explanation of Rusts module system
+https://www.sheshbabu.com/posts/rust-module-system/
+
+# Rust error handling
+https://www.sheshbabu.com/posts/rust-error-handling/
+
