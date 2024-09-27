@@ -27,40 +27,34 @@
 
 
 - 🔭 I’m currently working on ...
-  * 🦘 searching for employment down-under
-  * http://bit.ly/resume-brianhorakh
-  * exercism.io (Rust): https://exercism.org/profiles/elasticdotventures
+  * 🦘 arkeus.com.au @ scylla.digital
+  * http://bit.ly/resume--brianhorakh
   
-
-- 🌱 I’m currently learning (or improving) ...
-  * 🦀 rust + wasm &amp; 🐍 python (ai/ml) &amp; 🦄 typescript/deno/vue3 
-  * 🤖 artificial intelligence 😍 llm
-  * ⚡ electronics engineering
-  * ⛅ azure > aws 
+- 🌱 I’m currently learning (autodidact) ...
+  * 35 years - whatever is state of the art, + math, physics & chemistry (flash graphene synthesis)
+  * 🦀 llvm ptx, RUST, wasm &amp; 🐍 PYTHON (ai/ml), pyo3 & blender &amp; 🦄 Typescript/deno/vue3 or godot
+  * 🤖 artificial intelligence 😍 llm models & cybersec
+  * ⚡ electronics: design & fab esp32 || arm64 nvidia, ROS, Linux & nuttx rtos 
+  * ⛅ distributed build farms & poly-cloud self-hosted k8s bare metal || azure || aws || google
+  * 🌱 vertical farming robotics, hydroponics cybernetic cultivation & liquid bio-reactors
+  * 🍄 mycotronics developemnt of structurally ultracapactive fungi or cactus
 
 - 👯 I’m looking to collaborate on ...
-  * http://github.com/elasticdotventures/candi-date
+  - [Welcome]
+    * hiring@syclla.digital - join us.
+    * projects@syclla.digital - hire us.
+    * 🤝@syclla.vc - pitch us.
 
 - 📫 How to reach me: ...
   * matrix.org: <a href="https://matrix.to/#/@elasticdotventures:matrix.org">elasticdotventures</a>
-  * twitter: <a href="http://twitter.com/brianhorakh">brianhorakh</a>
   * linked.in: <a href="https://www.linkedin.com/in/brianhorakh">brianhorakh</a>
   * discord: <a href="https://discord.com/users/595852442760118294">elasticventures#4645</a>
   * stackoverflow: <a href="https://stackoverflow.com/users/5128087/brian-horakh">brian-horakh</a>
-
+  * twitter: <a href="http://twitter.com/brianhorakh">brianhorakh</a>  (not active)
 
 - 😄 Pronouns:
-  * he/they/any - it's all good!
+  * dude, or he/they/any/them
 
-- ⚡ Fun fact: 
-  * using linux since 1991
-  * this is/was not my first github account, but my other one was lost/unrecoverable during travel.
-  * I printed a 3d printer, laser cutter & CNC with my 3d printer
-  * I have over ~5,000 discrete hardware components, motors, sensors in the garage (i like to shop on Taobao)
-
-- 🚀 silly tricks
-  * speed up youtube (beyond 2x)
-   document.getElementsByTagName("video")[0].playbackRate = 2.5
   
 
    
