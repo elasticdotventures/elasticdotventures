@@ -30,13 +30,14 @@
   * http://bit.ly/resume--brianhorakh
   
 - 🌱 Autodidact currently learning:
-  * papers. state of the art, + math, physics & chemistry 
+  * papers. state of the art, + math, physics & chemistry
   * 🦀 llvm ptx, RUST, wasm &amp; 🐍 PYTHON (ai/ml), pyo3 & blender &amp; 🦄 Typescript/deno/vue3 or godot
-  * 🤖 artificial intelligence 😍 llm models & cybersec
-  * ⚡ electronics: design & fab esp32 || arm64 nvidia, ROS, Linux & nuttx rtos 
+  * 🤖 artificial intelligence 😍 llm models, ex: langchain & crew/ai
+  * ⚡ electronics: design & fab 😍 esp32 || arm64 nvidia, ROS, Linux & zephyr rtos 
   * ⛅ distributed build farms & poly-cloud self-hosted k8s bare metal || azure || aws || google
   * 🌱 vertical farming robotics, hydroponics cybernetic cultivation & liquid bio-reactors
   * 🍄 mycotronics developemnt of structurally ultracapactive fungi or cactus
+  * 😈 anything #cybersec.
 
 - 👯 I’m looking to collaborate on ...
   - http://promptexecution.com - my AU consulting org.
