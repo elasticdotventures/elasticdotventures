@@ -28,6 +28,8 @@
 
 - 🔭 Hire me:
   * CV http://cv.promptexecution.com
+  * 👔 http://promptexecution.com  (not finished!)
+
   
 - 🌱 Always learning ...
   * AI papers. everything state of the art, + math, mechatronics & battery chemistry
@@ -40,8 +42,7 @@
   * 😈 anything #cybersec r-engineer. ☝🏻 especially pertaining to earlier topics
 
 - 🧑‍🤝‍🧑 I’m looking to collaborate on ...
-  - http://promptexecution.com - my AU consulting org.
-  - [http://github.com/app4dog](app4dog) 
+  - 🐶 [app4.dog](http://app4.dog) 
 
 - 📫 How to reach me: ...
   * calendar: http://📅.promptexecution.com
