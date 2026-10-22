@@ -26,12 +26,11 @@
 </a>
 
 
-- 🔭 Hire me:
-  * CV http://cv.promptexecution.com
-  * 👔 http://promptexecution.com  (not finished!)
+- 🔭: Employer
+  * 👔 http://promptexecution.com 
 
   
-- 🌱 Always learning ...
+- 🌱 Nerd
   * AI papers. everything state of the art, + math, mechatronics & battery chemistry
   * 🦀 RUST, 🐍 PYTHON (ai/ml), &amp; 🦄 Typescript/vue3 or Godot 4.4
   * 🧠 artificial intelligence 😍 mcp, llm power-user, aigentic, vs+ roo-code
@@ -41,8 +40,9 @@
   * 🖨️ 3d print: FDM, DLP (resin) & CNC, OpenSCAD or CadQuery
   * 😈 anything #cybersec r-engineer. ☝🏻 especially pertaining to earlier topics
 
-- 🧑‍🤝‍🧑 I’m looking to collaborate on ...
-  - 🐶 [app4.dog](http://app4.dog) 
+- 🧑‍🤝‍🧑 I’m currently working on:
+  - 🐶 [app4.dog](http://app4.dog)
+  - 🥷🏻 windja - pv/vawt
 
 - 📫 How to reach me: ...
   * calendar: http://📅.promptexecution.com
